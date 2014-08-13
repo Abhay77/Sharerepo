@@ -1,0 +1,20 @@
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53170/hub/session {"sessionId": null, "desiredCapabilities": {"platform": "ANY", "browserName": "firefox", "version": "", "javascriptEnabled": true}}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53170/hub/session/7cbf4958-2117-4fe0-a3c3-24859a51c774/timeouts/implicit_wait {"sessionId": "7cbf4958-2117-4fe0-a3c3-24859a51c774", "ms": 30000.0}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53170/hub/session/7cbf4958-2117-4fe0-a3c3-24859a51c774/window/current/maximize {"windowHandle": "current", "sessionId": "7cbf4958-2117-4fe0-a3c3-24859a51c774"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+CRITICAL:root:Login failed
+CRITICAL:root:Upload video failed
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://127.0.0.1:53170/hub/session/7cbf4958-2117-4fe0-a3c3-24859a51c774 {"sessionId": "7cbf4958-2117-4fe0-a3c3-24859a51c774"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53226/hub/session {"sessionId": null, "desiredCapabilities": {"platform": "ANY", "browserName": "firefox", "version": "", "javascriptEnabled": true}}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53226/hub/session/aa734ada-3e65-4581-b64a-247064c0f836/timeouts/implicit_wait {"sessionId": "aa734ada-3e65-4581-b64a-247064c0f836", "ms": 30000.0}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53226/hub/session/aa734ada-3e65-4581-b64a-247064c0f836/window/current/maximize {"windowHandle": "current", "sessionId": "aa734ada-3e65-4581-b64a-247064c0f836"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+CRITICAL:root:Login failed
+CRITICAL:root:Upload video failed
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://127.0.0.1:53226/hub/session/aa734ada-3e65-4581-b64a-247064c0f836 {"sessionId": "aa734ada-3e65-4581-b64a-247064c0f836"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
